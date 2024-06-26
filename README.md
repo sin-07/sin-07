@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sin-07?tab=repositories](https://github.com/sin-07?tab=repositories)
+- 👨‍💻 All of my projects are available at [sin-07](https://github.com/sin-07?tab=repositories)
 
 - 📫 How to reach me **aniket.singh9322@gmail.com**
 
