@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aniket Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/4a61f6bdb188b3360eee252d06ee1515e1d99b6251fa3f530526744ce300e290/68747470733a2f2f692e696d6775722e636f6d2f6d5649723230372e676966"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sin-07&label=Profile%20views&color=0e75b6&style=flat" alt="sin-07" /> </p>
 
 - 🌱 I’m currently learning **MERN**
@@ -9,7 +11,7 @@
 
 - 📫 How to reach me **aniket.singh9322@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **You think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
